@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!doctype html>
 <?php
 include( 'config.php' );
@@ -410,4 +409,3 @@ $waitTickets = mysqli_num_rows( $waitTicketInfo );
 
 </html>
 
->>>>>>> a35a86586bbd90be4732b33f5452f2c30575d226

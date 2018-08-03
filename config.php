@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 
 $DBNAME = 'helpdesk';
@@ -44,5 +43,4 @@ $result = mysqli_query($link, "SELECT * FROM `ost_config` WHERE `key` = 'helpdes
 $row = mysqli_fetch_array($result);
 $siteName =  $row['value'];
 
->>>>>>> a35a86586bbd90be4732b33f5452f2c30575d226
 ?>
