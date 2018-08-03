@@ -8,9 +8,9 @@ osticket-dashboard is a quick dashboard for all open jobs within OS Ticket.  Des
 free to use, modify, change and steal as your own.
 
 # Installation.
-Edit config.php to match your OSTicket installation.
-Copy into your OSTTicket installation
-run dashboard.php from your web browser
+* Edit config.php to match your OSTicket installation.
+* Copy into your OSTTicket installation
+* Run dashboard.php from your web browser
 
 
 Jobs still to do.
