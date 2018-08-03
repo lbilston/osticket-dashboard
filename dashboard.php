@@ -25,6 +25,7 @@ $waitTickets = mysqli_num_rows( $waitTicketInfo );
 <html lang="en">
 
 <head>
+	<meta http-equiv="refresh" content="5">
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
